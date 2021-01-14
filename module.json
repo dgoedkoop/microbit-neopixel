@@ -1,7 +1,7 @@
 {
   "name": "microbit-neopixel",
-  "version": "0.0.1",
-  "description": "Support for NeoPixel (ZIP Halo) on BBC micro:bit",
+  "version": "0.0.2",
+  "description": "Support for NeoPixel (ZIP Halo) on BBC micro:bit in C++",
   "keywords": [],
   "author": "Daan Goedkoop",
   "repository": {
