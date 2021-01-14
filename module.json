@@ -12,5 +12,8 @@
   "license": "MIT",
   "dependencies": {
     "nrf51-sdk": "git://github.com/lancaster-university/nrf51-sdk#^2.0.0"
-  }
+  },
+  "extraIncludes": [
+    "inc"
+  ]
 }
