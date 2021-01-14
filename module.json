@@ -1,0 +1,16 @@
+{
+  "name": "microbit-neopixel",
+  "version": "0.0.1",
+  "description": "Support for NeoPixel (ZIP Halo) on BBC micro:bit",
+  "keywords": [],
+  "author": "Daan Goedkoop",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dgoedkoop/microbit-neopixel.git"
+  },
+  "homepage": "https://www.github.com/dgoedkoop/microbit-neopixel",
+  "license": "MIT",
+  "dependencies": {
+    "nrf51-sdk": "git://github.com/ARMmbed/nrf51-sdk.git#^2.4.0"
+  }
+}
