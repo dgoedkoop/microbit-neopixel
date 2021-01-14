@@ -11,6 +11,6 @@
   "homepage": "https://www.github.com/dgoedkoop/microbit-neopixel",
   "license": "MIT",
   "dependencies": {
-    "nrf51-sdk": "git://github.com/ARMmbed/nrf51-sdk.git#^2.4.0"
+    "nrf51-sdk": "git://github.com/lancaster-university/nrf51-sdk#^2.0.0"
   }
 }
